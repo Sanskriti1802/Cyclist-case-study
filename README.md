@@ -1,2 +1,6 @@
 # Cyclist-case-study
 Case study on Cyclistic as a part of capstone project.
+
+DESCRIPTION:
+As a junior data analyst on the marketing team at Cyclistic, a leading bike-share company in Chicago, I’m tasked with a critical project: analysing the differences in how casual riders and annual members use our bikes. Cyclistic is unique in offering a diverse fleet of over 5,800 bicycles, including reclining bikes, hand tricycles, and cargo bikes, making our services accessible to a wider range of people, including those with disabilities. Although the majority of our users prefer traditional bikes, a significant 8% utilize these assistive options.
+The goal is to leverage data to uncover insights into usage patterns between casual riders and annual members. This understanding will help us design a targeted marketing strategy aimed at converting more casual riders into annual members. Given the competitive nature of the bike-share market, our success hinges on maximizing annual memberships. Therefore, my analysis must be thorough and backed by compelling data visualizations to secure the approval of Cyclistic’s executives. This case study is a pivotal step toward shaping the future of Cyclistic’s membership growth.
